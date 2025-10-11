@@ -6,4 +6,5 @@ _site
 .DS_Store
 # Ruby
 .bundle
+.tool-versions
 Gemfile.lock
