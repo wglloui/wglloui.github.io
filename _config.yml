@@ -13,14 +13,14 @@ timezone: Asia/Shanghai
 # ↓ --------------------------
 
 # the main title
-title: Chirpy
+title: 若愚
 
 # it will display as the subtitle
-tagline: A text-focused Jekyll theme
+tagline: 喜欢打游戏、骑行、摄影、旅行的程序员。
 
 # used by seo meta and the atom feed
 description: >-
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  喜欢打游戏、骑行、摄影、旅行的程序员。
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -30,17 +30,17 @@ github:
   username: wglloui # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: wglloui # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: 若愚
+  email: wglloui@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/wglloui # change to your Twitter homepage
+    - https://github.com/wglloui # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
