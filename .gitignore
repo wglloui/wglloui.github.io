@@ -8,3 +8,5 @@ _site
 .bundle
 .tool-versions
 Gemfile.lock
+# Other
+.obsidian
